@@ -2,7 +2,7 @@
 #
 # https://github.com/conquerorsy/openvpn-install
 #
-# Copyright (c) 2013 Nyr. Released under the MIT License.
+# Copyright (c) 2021 conquerorsy.
 
 
 # Detect Debian users running the script with "sh" instead of bash
