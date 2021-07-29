@@ -1,4 +1,4 @@
-**New: [wireguard-install](https://github.com/conquerorsy/wireguard-install) is also available.**
+**Fatih: [R10.net Profil](https://www.r10.net/profil/122398-fatihsy.html) Fatih ÖZDEMİR.**
 
 ## openvpn-install
 OpenVPN [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) installer for Ubuntu, Debian, CentOS and Fedora.
