@@ -1,4 +1,4 @@
-Fatih ÖZDEMİR <Sy> | [R10.net Profil](https://www.r10.net/profil/122398-fatihsy.html)
+Fatih ÖZDEMİR-Sy | [R10.net Profil](https://www.r10.net/profil/122398-fatihsy.html)
 
 ## openvpn-install
 OpenVPN [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) installer for Ubuntu, Debian, CentOS and Fedora.
